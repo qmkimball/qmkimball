@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+-I'm currently expanding my knowlege in coding by doing tutorials, building side projects for fun, and networking through slack, linked-in and personal connections. 
+-I'm looking for an entry level or junior software development job so I can start gaining actual experience in the tech industry. 
+
+
+
 <!--
 **qmkimball/qmkimball** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
