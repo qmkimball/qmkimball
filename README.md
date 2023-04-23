@@ -1,7 +1,8 @@
 ### Hi there 👋
 
--I'm currently expanding my knowlege in coding by doing tutorials, building side projects for fun, and networking through slack, linked-in and personal connections. 
--I'm looking for an entry level or junior software development job so I can start gaining actual experience in the tech industry. 
+-I'm currently interning at Morgan Stanley where I've learned so much already. 
+-I've been expanding my knowlege in coding by doing tutorials, building side projects for fun, and networking through slack, linked-in and personal connections. 
+-I'm looking for an entry level or junior software development position so I can continue my journey as a Software Developer. 
 
 
 
